@@ -1,20 +1,20 @@
 {
-  "name": "xiaoan-vue",
+  "name": "back_management1",
   "private": true,
   "version": "0.0.0",
-  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
-    "element-plus": "^2.7.8",
-    "vue": "^3.4.31",
-    "vue-router": "^4.0.13"
+    "axios": "^0.27.2",
+    "element-plus": "^2.2.0",
+    "vue": "^3.2.25",
+    "vue-router": "4"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^5.0.5",
-    "vite": "^5.3.4"
+    "@vitejs/plugin-vue": "^2.3.3",
+    "vite": "^2.9.9"
   }
 }

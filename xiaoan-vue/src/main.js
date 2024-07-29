@@ -1,7 +1,10 @@
-import { createApp } from 'vue'
+import {createApp} from 'vue'
 import App from './App.vue'
 
+//导入路由
 import router from './router/index'
+
+//全局导入Element plus
 import ElementPlus from 'element-plus'
 import 'element-plus/dist/index.css'
 
